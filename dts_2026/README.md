@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-An DTS proyect to analize the UM db with properly and how it increases the risk and manage the oportunity to otorgate credits
+A DTS proyect to analize the UM Database with properly and how that increases the risk and manage the oportunity to otorgate credits
 
 ## Project Organization
 
